@@ -1,14 +1,16 @@
-﻿生成启动时间为 2016/10/25 23:00:50。
+﻿生成启动时间为 2016/10/26 17:27:45。
      1>项目“F:\aboutIT\代码备份\git\c++\cplusplus\图论\图论\图论.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         E:\Program Files (x86)\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "最短路径.cpp"
-         最短路径.cpp
-     1>f:\aboutit\代码备份\git\c++\cplusplus\图论\图论\最短路径.cpp(118): warning C4715: “Tools::dnumber”: 不是所有的控件路径都返回值
+         E:\Program Files (x86)\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "邻接矩阵到可达矩阵.cpp"
+         邻接矩阵到可达矩阵.cpp
        Link:
-         E:\Program Files (x86)\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\aboutIT\代码备份\git\c++\cplusplus\图论\Debug\图论.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\aboutIT\代码备份\git\c++\cplusplus\图论\Debug\图论.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\aboutIT\代码备份\git\c++\cplusplus\图论\Debug\图论.lib" /MACHINE:X86 "Debug\最短路径.obj"
+         E:\Program Files (x86)\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\aboutIT\代码备份\git\c++\cplusplus\图论\Debug\图论.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\aboutIT\代码备份\git\c++\cplusplus\图论\Debug\图论.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\aboutIT\代码备份\git\c++\cplusplus\图论\Debug\图论.lib" /MACHINE:X86 "Debug\数组.obj"
+         "Debug\最短路径.obj"
+         "Debug\矩阵.obj"
+         "Debug\邻接矩阵到可达矩阵.obj"
          图论.vcxproj -> F:\aboutIT\代码备份\git\c++\cplusplus\图论\Debug\图论.exe
      1>已完成生成项目“F:\aboutIT\代码备份\git\c++\cplusplus\图论\图论\图论.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:01.35
+已用时间 00:00:00.63

@@ -78,7 +78,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="数组.cpp" />
     <ClCompile Include="最短路径.cpp" />
+    <ClCompile Include="矩阵.cpp" />
+    <ClCompile Include="邻接矩阵到可达矩阵.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
